@@ -21,6 +21,6 @@ go build
 ```
 
 ### 交流
-![微信](https://raw.githubusercontent.com/lulu8109lu/go_exporter_demo/master/doc/images/wx.jpg)
+![微信](https://raw.githubusercontent.com/lulu8109lu/go_exporter_demo/master/doc/image/wx.jpg)
 
 QQ: 398741302
